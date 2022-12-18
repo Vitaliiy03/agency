@@ -1,4 +1,4 @@
-<?php $title = "Business2" ?>
+<?php $title = "Business" ?>
 <?php include('inc/head.php') ?>
 <body>
 			
